@@ -17,7 +17,7 @@
   "dependencies": {
     "imagemin": "^5.2.2",
     "imagemin-gifsicle": "^5.1.0",
-    "imagemin-mozjpeg": "^7.0.0",
+    "imagemin-mozjpeg": "git+https://github.com/sevaru/imagemin-mozjpeg.git",
     "imagemin-optipng": "git+https://github.com/sevaru/imagemin-optipng.git",
     "imagemin-pngquant": "^5.0.0",
     "imagemin-svgo": "^6.0.0",
